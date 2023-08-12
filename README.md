@@ -68,5 +68,31 @@ Salaries less than 1 million and sort in an ascending order
 
 ![](SQL11.JPG)
 
+## TASK 3
+- What is the total number of employees in our employee table??
+- Find out the top 5 cities with the highest number of employees, then filter the result to show cities with more than 15 employees.
+- Find out the most used pin code by the employee. In this case, we want to know the pin codes that is used the most.
+
+## SOLUTION
+
+For total number of employees in our employee table
+
+![](12SQL.png)
+
+Top 5 cities with highest number of employees
+
+![](13SQL.png)
+
+Employees filterd to show cities with more than 15 employees
+
+![](14SQL.png)
+
+Most used pincode by employees
+
+![](15SQL.png)
+
+
+
+
 
 
